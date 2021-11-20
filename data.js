@@ -20,4 +20,4 @@ const answers = {
     ]
 }
 
-export {answers};
+module.exports = answers;
